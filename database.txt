@@ -1,0 +1,12 @@
+email, subject, message
+
+shdfl@gaslf.com, hskdfal, How are you?
+sammy@gamil.com, Computer, I would like to buy one
+sammy@gamil.com, Starters, I would like to get spicy starters.
+sammy@gmail.com, Starters, I would like to get spicy starters.
+sammy@gmail.com, Starters, I would like to get spicy starters.
+sammy@gmail.com, Starters, I would like to get spicy starters.
+eric@gmail.com, Main course, Like Sushi.
+Adanma@yahoo.com, Desserts, I love the mango desserts.
+Adanma@yahoo.com, Desserts, I love the mango desserts.
+Bob@hotmail.com, Appetizer, I like crispy ones.
